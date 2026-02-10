@@ -1,7 +1,7 @@
 # config for count-by-twos experiment
 
 # data
-dataset = 'count_by_twos'
+dataset = 'basic'
 data_dir = 'data/basic'
 out_dir = 'out'
 
