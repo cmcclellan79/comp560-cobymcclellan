@@ -1,1 +1,1 @@
-# comp560-cobymcclellan
+# My COMP560 Experiment
