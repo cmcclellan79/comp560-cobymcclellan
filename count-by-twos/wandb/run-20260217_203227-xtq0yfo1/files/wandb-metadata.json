@@ -1,0 +1,38 @@
+{
+  "os": "macOS-13.5-arm64-arm-64bit",
+  "python": "CPython 3.9.6",
+  "startedAt": "2026-02-18T01:32:27.859102Z",
+  "args": [
+    "config/basic.py"
+  ],
+  "program": "/Users/cobymcclellan/GitHub/comp560-cobymcclellan/count-by-twos/../../comp560-nanoGPT/train.py",
+  "git": {
+    "remote": "https://github.com/cmcclellan79/comp560-cobymcclellan.git",
+    "commit": "e3eaa25d26b7cb78c3cebc4184d1429fdfc89be9"
+  },
+  "email": "mcclellc@dickinson.edu",
+  "root": "/Users/cobymcclellan/GitHub/comp560-cobymcclellan/count-by-twos",
+  "host": "Cobys-MacBook-Air-2.local",
+  "executable": "/Users/cobymcclellan/GitHub/comp560-cobymcclellan/venv/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "142061801472"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "8589934592",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "cmmw4i092sp6ngyrphn2y8shid2kkpin"
+}
