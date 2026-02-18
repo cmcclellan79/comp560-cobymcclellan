@@ -1,5 +1,7 @@
 # config for count-by-twos experiment
-
+wandb_log = True
+wandb_project = 'comp560-count-by-twos'
+wandb_run_name = 'basic-2000-iters'
 # data
 dataset = 'basic'
 data_dir = 'data/basic'
