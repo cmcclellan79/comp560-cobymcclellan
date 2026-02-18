@@ -22,7 +22,7 @@ max_iters = 2000  # start with 200 for quick test, then change to 2000
 learning_rate = 1e-3
 decay_lr = True
 warmup_iters = 100
-lr_decay_iters = 2000
+lr_decay_iters = 200
 min_lr = 1e-4
 
 # evaluation

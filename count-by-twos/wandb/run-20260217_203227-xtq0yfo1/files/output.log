@@ -89,3 +89,13 @@ iter 720: loss 0.4165, time 10614.63ms, mfu 0.03%
 iter 730: loss 0.4196, time 9271.00ms, mfu 0.03%
 iter 740: loss 0.4155, time 8667.06ms, mfu 0.03%
 iter 750: loss 0.4121, time 9246.85ms, mfu 0.03%
+iter 760: loss 0.3994, time 9668.96ms, mfu 0.03%
+iter 770: loss 0.3982, time 8850.51ms, mfu 0.03%
+iter 780: loss 0.3995, time 9515.19ms, mfu 0.03%
+iter 790: loss 0.3923, time 8687.06ms, mfu 0.03%
+step 800: train loss 0.3690, val loss 0.5193
+saving checkpoint to out
+iter 800: loss 0.3930, time 11552.69ms, mfu 0.03%
+iter 810: loss 0.3914, time 9442.37ms, mfu 0.03%
+iter 820: loss 0.3861, time 11541.35ms, mfu 0.03%
+iter 830: loss 0.3906, time 9510.71ms, mfu 0.03%
